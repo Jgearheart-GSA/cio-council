@@ -77,7 +77,7 @@ footer:
     email: feedback@cio.gov
     twitter:
       - ciodotgov
-    rss: cioc
+    rss: https://federalist-proxy.app.cloud.gov/site/rwuhrman/cio-council/data/cio.rss
   text:
  # Change to a tag line for your agency
 
