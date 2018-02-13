@@ -69,12 +69,7 @@ forms:
 
 footer:
   links:
-      - text: 'About'
-        href: '/about/'
-      - text: 'Work'
-        href: '#'
-    
-        
+
         
   image: /assets/img/CIO-council-Logo-silver1.png
   contact:
